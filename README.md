@@ -18,3 +18,5 @@ Then save.
 **Step 4**
 -Open the project in terminal, run the project with command:
 ```nodemon app.js```
+-Go to browser and enter address:
+> localhost:3000
