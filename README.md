@@ -7,12 +7,13 @@
 
 **Step 3**
 -Create a folder name environment. Then create environment.js file in this folder. Inside the file, make an object as followed:
-```module.exports.environment = {
+
+<em> module.exports.environment = {
   apiKey: “putHereYourObtainedAPIkeyInMailChimp”,
   listID: "putHereYourObtainedUniquireIDForAAudienceInMailChimp"
-}```
-Then save.
+} </em>
 
+Then save. 
 
 **Step 4**
 -Open the project in terminal, run the project with command:
